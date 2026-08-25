@@ -1,5 +1,4 @@
-<!-- BANNER — upload banner.jpg no repo para aparecer -->
-<img width="100%" src="./banner.jpg" alt="banner"/>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:3D0066,100:BF00FF&height=160&section=header&text=lucasxis2k25&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=AI%20Automation%20%7C%20Web%20Development&descAlignY=85&descSize=16&descColor=d9b3ff"/>
 
